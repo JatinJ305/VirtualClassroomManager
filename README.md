@@ -16,10 +16,10 @@ assignment as submitted.
 
 Console Outputs
 
-1.Classroom Addition: Classroom [Name] has been created.
+1. Classroom Addition: Classroom [Name] has been created.
 
-2.Student Addition: Student [ID] has been enrolled in [Class Name].
+2. Student Addition: Student [ID] has been enrolled in [Class Name].
 
-3.Assignment Scheduled: Assignment for [Class Name] has been scheduled.
+3. Assignment Scheduled: Assignment for [Class Name] has been scheduled.
 
-4.Assignment Submission: Assignment submitted by Student [ID] in [Class Name].
+4. Assignment Submission: Assignment submitted by Student [ID] in [Class Name].
